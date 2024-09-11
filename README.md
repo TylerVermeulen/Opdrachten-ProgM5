@@ -1,3 +1,3 @@
 # Opdrachten ProgM5
  
-![alt text](<mah balls dropped.gif>)
+![alt text](Prog_Gifs\mah_balls_dropped.gif)
