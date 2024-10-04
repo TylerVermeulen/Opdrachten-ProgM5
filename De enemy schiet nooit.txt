@@ -1,0 +1,8 @@
+De enemy schiet nooit
+
+shotRange = 0
+
+
+het schot raakt de speler niet
+
+targettag is de speler meer niet
